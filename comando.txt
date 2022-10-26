@@ -1,0 +1,15 @@
+pwd:  forma de encontrar la carpeta en donde estas en ese momento.
+cd:  cambio de directorio, puede variar, por ejemplo con un / vas directo a la entrada en el disco duro/home.
+ls:  es para listar los archivos, con -al sirve para que el programa muestre los archivos que se estan usando en ese momento incluyendo 
+los ocultos. Si pones solo la l no te mostrara los archivos ocultos y/o . / .., otra cosa si pones solo la a, te mostrara los archivos 
+ocultos pero no en una lista por eso es escencial que se use la al para que se vean los archivos de una manera mas ordenada.
+clear/Ctrl l: sirve para limpiar el git bash.
+cat:  es para ver el contenido del archivo que se esta usando en ese momento.
+mkdir:  es para crear un directorio o carpeta va asi "mkdir (nombre de la carpeta)".
+rm:  irve para borrar archivos, pero si usan mal la sintaxis se pueden borrar por completo el disco duro.
+touch:  irve para crear archivos "touch (nombre del archivo)".
+!33:  sirve para repetir comandos.
+history:  sirve para ver el historial de los comandos hechos por el usuario.
+--help:  sirve para pedir ayuda de cuantas funciones tiene un comando que se quiere usar.
+git init:  es la forma de seleccionar una carpeta como el centro de de los archivos o volverla "master".
+code:  sirve para abrir visual studio code desde git bash.
