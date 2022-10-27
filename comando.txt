@@ -13,3 +13,4 @@ history:  sirve para ver el historial de los comandos hechos por el usuario.
 --help:  sirve para pedir ayuda de cuantas funciones tiene un comando que se quiere usar.
 git init:  es la forma de seleccionar una carpeta como el centro de de los archivos o volverla "master".
 code:  sirve para abrir visual studio code desde git bash.
+git log:  permite ver el historial de los cambios del archivo.
