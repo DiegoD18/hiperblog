@@ -35,3 +35,4 @@ git push: Envias los archivos al repositorio remoto.
 git fetch: trae el archivos del repositorio remoto, al local, pero no lo copia a los archivos.
 git merge: Ayuda al git fetch a fusionar el ultimo archivo de el repositorio remoto con tu archivo actual.
 git pull: hace lo mismo que git fetch con git merge.
+ssh-keygen -t rsa -b 4096 -C: sirve para crear llaves en git.
